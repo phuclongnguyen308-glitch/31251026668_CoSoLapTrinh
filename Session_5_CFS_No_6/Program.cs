@@ -10,14 +10,14 @@ namespace Session_5_CFS_No_6
     {
         static void Main(string[] args)
         {
-            // Nhap so n va tinh tong chuoi harmonic den n
+            // Nhap so N va tinh tong chuoi harmonic den N
             Console.Write("Nhap N: ");
-            int n = int.Parse(Console.ReadLine());
+            int N = int.Parse(Console.ReadLine());
 
             double Tong = 0;
-            for (int I = 1; I <= n; I++) Tong += 1.0 / I;
+            for (int I = 1; I <= N; I++) Tong += 1.0 / I;
 
-            Console.WriteLine($"Tong chuoi Harmonic: {Tong:F2}");
+            Console.WriteLine($"Tong chuoi harmonic den {N}: {Tong:F2}");
         }
     }
 }

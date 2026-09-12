@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{8F2BC69B-DFE8-4098-99F9-98E25195FA3F}</ProjectGuid>
+    <ProjectGuid>{36295BCC-5A20-4EAC-A217-CF13926D8903}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Session_5_Exercise_in_Slide</RootNamespace>
-    <AssemblyName>Session_5_Exercise_in_Slide</AssemblyName>
+    <RootNamespace>Session_5_CFS_No_6</RootNamespace>
+    <AssemblyName>Session_5_CFS_No_6</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
